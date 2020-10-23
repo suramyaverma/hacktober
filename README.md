@@ -20,6 +20,17 @@ riotID: "runtime1729",
 tagline: "#NA1"
 }
 
+//adding another game
+
+{
+gameName: "Pubg khele bahut time ho gaya",
+tagline: "DTE"
+}
+{
+gameName: "Valorant",
+riotID: "runtime1729",
+tagline: "#NA1"
+}
 
 ```
 
